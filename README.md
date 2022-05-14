@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akuane
 - 👀 I’m interested in Machine Learning, Game Development, Data Science
-- 🌱 I’m currently learning Python, SQL, C++, Unreal Engine
+- 🌱 I’m currently learning Python, SQL, C, C++, Unreal Engine
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me Discord: Calmecht#2109
 
